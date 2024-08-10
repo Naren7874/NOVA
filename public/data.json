@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "title": "Tomatoes",
+    "description": "Grow your own fresh tomatoes at home.",
+    "image": "https://png.pngitem.com/pimgs/s/21-214451_transparent-background-tomato-png-file-png-download.png"
+  },
+  {
+    "id": 2,
+    "title": "Basil",
+    "description": "Fresh basil for all your culinary needs.",
+    "image": "https://png.pngitem.com/pimgs/s/55-555100_purple-basil-hd-png-download.png"
+  },
+  {
+    "id": 3,
+    "title": "Strawberries",
+    "description": "Sweet strawberries right from your terrace.",
+    "image": "https://png.pngitem.com/pimgs/s/129-1292808_strawberry-png-pics-strawberry-png-transparent-png.png"
+  }
+]
